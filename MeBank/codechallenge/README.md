@@ -1,6 +1,6 @@
 # MeBank Coding Challenge
 
-This repository contains code that is a solution to the Relative Balance Calculator Coding Test as part of MeBank's interview process.
+This repository contains code that is a solution to the Code Challege by MeBank.
 
 ## Getting Started
 

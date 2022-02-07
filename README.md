@@ -27,15 +27,16 @@ mvn clean install
 
 The program produces a JAR file in the `target` directory and the local `maven repo`.
 
-### Running
+### Steps to Run
 
-This is a Spring boot application, you can run as Right click on project --> Run As --> Spring Boot App
+This is a Spring boot application, you can run as 
+Right click on project --> Run As --> Spring Boot App
 
 **Note:** The program assumes there are no headers in the CSV file. Data starts at Line 1.
 
 The program takes a CSV list of transactions as input specified in the challenge requirements.
 
-Once run, the program requests User Input:
+Run time User Input:
 
 - `accountID` - The account to calculate the balance for
 - `fromDate` - The From Date to begin the calculation at. Input Format `dd/MM/yyyy HH:mm:ss`

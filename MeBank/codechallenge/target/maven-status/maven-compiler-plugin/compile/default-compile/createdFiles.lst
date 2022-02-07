@@ -1,8 +1,0 @@
-com\mebank\codechallenge\model\Transaction.class
-com\mebank\codechallenge\RelativeBalanceCalculator.class
-com\mebank\codechallenge\model\TransactionTypes.class
-com\mebank\codechallenge\CodeChallengeApplication.class
-com\mebank\codechallenge\ServletInitializer.class
-com\mebank\codechallenge\FileProcessor.class
-com\mebank\codechallenge\util\GlobalConstants.class
-com\mebank\codechallenge\util\CommonUtil.class
